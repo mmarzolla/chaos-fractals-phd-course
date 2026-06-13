@@ -1,4 +1,6 @@
-# Chaos, Fractals, and Dynamical Systems
+# Chaos, Fractals, and Dynamical Systems PhD course
+
+![Chaos, Fractals, and Dynamical Systems PhD course banner](chaos-fractals.jpeg)
 
 This is the software repository for the PhD course on [Chaos,
 Fractals, and Dynamical
